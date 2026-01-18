@@ -19,3 +19,6 @@
 [submodule "pack/preservim/start/tagbar"]
 	path = pack/preservim/start/tagbar
 	url = https://github.com/preservim/tagbar.git
+[submodule "pack/rhysd/start/vim-clang-format"]
+	path = pack/rhysd/start/vim-clang-format
+	url = https://github.com/rhysd/vim-clang-format.git
