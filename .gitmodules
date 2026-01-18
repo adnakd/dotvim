@@ -25,3 +25,6 @@
 [submodule "pack/themes/start/awesome-vim-colorschemes"]
 	path = pack/themes/start/awesome-vim-colorschemes
 	url = https://github.com/rafi/awesome-vim-colorschemes.git
+[submodule "pack/pack/vimcompletesme/start/VimCompletesMe"]
+	path = pack/pack/vimcompletesme/start/VimCompletesMe
+	url = https://github.com/vim-scripts/VimCompletesMe.git
