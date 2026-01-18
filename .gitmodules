@@ -1,3 +1,6 @@
 [submodule "pack/airline/start/vim-airline"]
 	path = pack/airline/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/bufferline/start/vim-bufferline"]
+	path = pack/bufferline/start/vim-bufferline
+	url = https://github.com/bling/vim-bufferline.git
