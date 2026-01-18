@@ -22,3 +22,6 @@
 [submodule "pack/rhysd/start/vim-clang-format"]
 	path = pack/rhysd/start/vim-clang-format
 	url = https://github.com/rhysd/vim-clang-format.git
+[submodule "pack/themes/start/awesome-vim-colorschemes"]
+	path = pack/themes/start/awesome-vim-colorschemes
+	url = https://github.com/rafi/awesome-vim-colorschemes.git
