@@ -13,3 +13,6 @@
 [submodule "pack/lsps/start/vim-lsp"]
 	path = pack/lsps/start/vim-lsp
 	url = https://github.com/prabirshrestha/vim-lsp.git
+[submodule "pack/preservim/start/nerdtree"]
+	path = pack/preservim/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
