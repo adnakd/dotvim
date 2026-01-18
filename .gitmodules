@@ -4,3 +4,6 @@
 [submodule "pack/bufferline/start/vim-bufferline"]
 	path = pack/bufferline/start/vim-bufferline
 	url = https://github.com/bling/vim-bufferline.git
+[submodule "pack/fzf/start/fzf.vim"]
+	path = pack/fzf/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
