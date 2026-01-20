@@ -1,3 +1,9 @@
+filetype plugin indent on
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
+set expandtab
+
 let g:lsp_clangd_ignore_warning = 1
 set number 
 "set relativenumber
@@ -14,6 +20,7 @@ map \ag :Ag<CR>
 map \rg :Rg<CR>
 map \bt :BTags<CR>
 map \at :Tags<CR>
+map \fm :ClangFormat<CR>
 
 if executable('clangd')
     augroup lsp_clangd
