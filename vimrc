@@ -89,3 +89,4 @@ endif
 colorscheme nord
 set background=dark
 let NERDTreeIgnore = ['build[[dir]]', '.git[[dir]]', '.gitignore']
+"let g:NERDTreeWinSize=40
